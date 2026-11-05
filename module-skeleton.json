@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-pickup-and-local-delivery-nuxt",
+  "capabilityKey": "planned:ecommerce:pickup-and-local-delivery",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-pickup-and-local-delivery-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/pickup-and-local-delivery.md",
+  "presentationPlan": "projects/ecommerce/nuxt/pickup-and-local-delivery.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
